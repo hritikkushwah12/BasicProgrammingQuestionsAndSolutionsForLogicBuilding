@@ -1,3 +1,12 @@
+QUESTION:Print pattern given below with the input n given by the user for customization in pattern:
+given n=4:
+A B C D 
+A B C D 
+A B C D 
+A B C D 
+SOLUTION:
+
+
 import java.util.Scanner;
 public class printPatternL2 {
     public static void main(String []args){
