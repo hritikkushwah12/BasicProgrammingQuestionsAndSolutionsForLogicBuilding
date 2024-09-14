@@ -1,3 +1,17 @@
+QUESTION:Print below pattern according to the input n given by the user for further customization in pattern by the user:
+given here n=9
+ABCDEFGHI
+BCDEFGHIJ
+CDEFGHIJK
+DEFGHIJKL
+EFGHIJKLM
+FGHIJKLMN
+GHIJKLMNO
+HIJKLMNOP
+IJKLMNOPQ
+SOLUTION:
+
+
 import java.util.Scanner;
 public class printPatternN2{
     public static void main(String []args){
