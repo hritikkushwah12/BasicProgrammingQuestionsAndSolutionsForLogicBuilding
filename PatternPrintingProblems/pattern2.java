@@ -1,3 +1,10 @@
+QUESTION: Print below pattern alongwith the input taken by user for some customization in pattern:
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+SOLUTION:
+
 public class pattern2 {
 
         public static void main(String args[]){
