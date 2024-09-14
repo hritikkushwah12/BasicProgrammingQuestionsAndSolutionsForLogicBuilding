@@ -1,14 +1,20 @@
+QUESTION:Print below pattern only:
+* * * * * * 
+*         * 
+*         * 
+* * * * * *
+SOLUTION:
 
-    public class printPattern2{
-        public static void main(String []args){
-            for(int i=1;i<=4;i++){
-                for(int j=1;j<=6;j++){
-                    if(i>=2&&i<4&&j>=2&&j<6)
-                        System.out.print("  ");
-                    else
-                        System.out.print("* ");
-                }
-                System.out.println();
-            }
-        }
+public class printPattern2{
+ public static void main(String []args){
+  for(int i=1;i<=4;i++){
+    for(int j=1;j<=6;j++){
+         if(i>=2&&i<4&&j>=2&&j<6)
+         System.out.print("  ");
+         else
+         System.out.print("* ");
     }
+    System.out.println();
+  }
+ }
+}
