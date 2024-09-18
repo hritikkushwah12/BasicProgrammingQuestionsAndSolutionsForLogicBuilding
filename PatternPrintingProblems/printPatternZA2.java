@@ -1,5 +1,16 @@
+QUESTION:Print below pattern according to the input n given by the user for further customization in pattern by the user:
+given here n=6
+1 2 3 4 5 6 6 5 4 3 2 1 
+1 2 3 4 5 * * 5 4 3 2 1 
+1 2 3 4 * * * * 4 3 2 1 
+1 2 3 * * * * * * 3 2 1 
+1 2 * * * * * * * * 2 1 
+1 * * * * * * * * * * 1 
+SOLUTION:
+
+
 import java.util.Scanner;
-public class printPatternZA2{
+public class DiamondNumber{
     public static void main(String []args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
