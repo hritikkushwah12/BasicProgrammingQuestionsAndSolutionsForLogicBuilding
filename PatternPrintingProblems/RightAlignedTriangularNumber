@@ -1,6 +1,17 @@
-import java.util.Scanner;
+QUESTION:Print below pattern according to the input n given by the user for further customization in pattern by the user:
+given here n=6
+1 2 3 4 5 6 
+  2 3 4 5 6 
+    3 4 5 6 
+      4 5 6 
+        5 6 
+          6 
 
-public class printPatternX2{
+SOLUTION:
+
+
+import java.util.Scanner;
+public class RightAlignedTriangularNumber {
     public static void main(String []args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
