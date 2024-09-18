@@ -1,5 +1,16 @@
+QUESTION:Print below pattern according to the input n given by the user for further customization in pattern by the user:
+given here n=6
+* * * * * * 
+  * * * * * 
+    * * * * 
+      * * * 
+        * * 
+          * 
+SOLUTION:
+
+    
 import java.util.Scanner;
-public class printPatternU2 {
+public class RightShiftStarInvertedPyramid {
     public static void main(String[] rick) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
