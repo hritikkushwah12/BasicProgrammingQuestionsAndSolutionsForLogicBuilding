@@ -1,5 +1,15 @@
+QUESTION:Print below pattern according to the input n given by the user for further customization in pattern by the user:
+given here n=6
+A
+BC
+DEF
+GHIJ
+KLMNO
+PQRSTU 
+ 
+SOLUTION:
 import java.util.Scanner;
-public class printPatternP2{
+public class ContinuosAlphabeticLetterTriangle{
     public static void main(String []args){
         Scanner sc=new Scanner(System.in);
         char st='A';
