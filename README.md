@@ -1,2 +1,3 @@
-# DSA-practice-question-solutions
-some important data structure and algorithm question solutions
+# Common Programming Practice-Question-Solutions
+some important problems to be aware with it for logic building in the programming.
+
