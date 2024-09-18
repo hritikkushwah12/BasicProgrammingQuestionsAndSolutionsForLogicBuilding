@@ -1,5 +1,15 @@
+QUESTION:Print below pattern according to the input n given by the user for further customization in pattern by the user:
+given here n=6
+A
+BB
+CCC
+DDDD
+EEEEE
+FFFFFF 
+ 
+SOLUTION:
 import java.util.Scanner;
-public class printPatternO2{
+public class AlphabeticLetterTriangle{
     public static void main(String []args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
